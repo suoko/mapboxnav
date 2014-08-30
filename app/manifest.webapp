@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "name": "Mapbox Nav",
+    "description": "Mapbox Nav",
+    "launch_path": "/index.html",
+    "icons": {
+        "16": "/assets/image/icon16.png",
+        "48": "/assets/image/icon48.png",
+        "128": "/assets/image/icon128.png"
+    },
+    "developer": {
+        "name": "Gabriele Vidali",
+        "url": "http://suoko.github.io/mapboxnav"
+    }
+}
