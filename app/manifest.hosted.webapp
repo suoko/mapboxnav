@@ -21,6 +21,6 @@
 	}
     },
     "chrome": { "navigation": true },
-    "fullscreen": "true"
+    "fullscreen": true
     
 }

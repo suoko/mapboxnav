@@ -2,6 +2,8 @@
 /* global alert, console */
 "use strict";
 // Install app
+navigator.requestWakeLock('screen'); 
+
 if (navigator.mozApps) {
 var checkIfInstalled = navigator.mozApps.getSelf();
 checkIfInstalled.onsuccess = function () {
