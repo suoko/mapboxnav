@@ -20,7 +20,9 @@
 	  "description": "Marking out user location"
 	}
     },
-    "chrome": { "navigation": true },
-    "fullscreen": true
+    "chrome": { 
+	"navigation": "true" 
+    },
+    "fullscreen": "true"
     
 }
