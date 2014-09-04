@@ -2,7 +2,7 @@
     "version": "1.0.0",
     "name": "Mapbox Nav",
     "description": "Mapbox Nav",
-    "launch_path": "mapboxnav/index.html",
+    "launch_path": "/mapboxnav/index.html",
     "icons": {
         "16": "/mapboxnav/assets/image/icon16.png",
         "48": "/mapboxnav/assets/image/icon48.png",
